@@ -1,0 +1,3 @@
+3 tables Product, Brand & Manufacturer. 
+
+Brand & Manufacturer have a many to one rel with a product.
